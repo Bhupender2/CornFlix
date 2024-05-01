@@ -2,7 +2,7 @@
 
 Discover, rate, and track your favorite movies with CornFlix. This React-based web app features a responsive design, intuitive interface, and interactive movie rating.
 
-![Screenshot](screenshot-link-goes-here)
+<img src="https://github.com/Bhupender2/CornFlix/blob/main/src/images/demo.png" width="600" height="400"/>
 
 ## Table of Contents 📚
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/CodePapa360/cornFlix.git
+   git clone https://github.com/bhupender2/cornFlix.git
