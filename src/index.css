@@ -418,19 +418,19 @@ body::-webkit-scrollbar {
     margin-bottom: 1.5rem;
   }
   .summary div {
-    gap:1rem;
-    justify-content :center;
+    gap: 1rem;
+    justify-content: center;
   }
   .list li {
-    padding: 1rem
+    padding: 1rem;
   }
-  .list h3{
-    margin-bottom :1rem
+  .list h3 {
+    margin-bottom: 1rem;
   }
-  .summary{
-    padding:1rem
+  .summary {
+    padding: 1rem;
   }
-  .details section{
-    padding: 2rem 1rem
+  .details section {
+    padding: 2rem 1rem;
   }
 }
