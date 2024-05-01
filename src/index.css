@@ -430,4 +430,7 @@ body::-webkit-scrollbar {
   .summary{
     padding:1rem
   }
+  .details section{
+    padding: 2rem 1rem
+  }
 }
