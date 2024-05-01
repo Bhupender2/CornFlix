@@ -319,7 +319,7 @@ function MovieDetails({ selectedId, onCloseMovie, onAddWatched, watched }) {
     if (!title) return;
     document.title = `Movie | ${title}`; // we are manually manipulating the dom (outside of the application) so its a side effect thats why we use useEffect Hook here
     return function () {
-      document.title = "usePopcorn";
+      document.title = "CornFlix";
       console.log(`clean up effect ${movie}`); // it will remember the value because of closure
     };
   }, [title]);
