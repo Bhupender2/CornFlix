@@ -433,4 +433,7 @@ body::-webkit-scrollbar {
   .details section {
     padding: 2rem 1rem;
   }
+  .details img {
+    width: 40%;
+  }
 }
